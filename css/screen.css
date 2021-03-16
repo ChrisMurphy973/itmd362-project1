@@ -5,12 +5,9 @@ html {
   font-size: 1.125em; 
   line-height: 1.55555em; 
   padding: 1.55555em; 
-  background-color: #000000;
-}
-body {
-    background-image: url(../images/nebula.jpg);
-    background-repeat: repeat;
-    background-size: cover;
+  background-image: url(../images/nebula.jpg);
+  background-repeat: repeat;
+  background-size: cover;
 }
 
 fieldset{
@@ -19,14 +16,15 @@ fieldset{
   
 #content {
     border-color: transparent;
-    background-color: #56006b
+    background-color: #000000
 }
   
 h1 {
     font-size: 1.75em; 
     font-weight: bolder;
     padding-top: 1em; 
-    padding-bottom: 1.25em; 
+    padding-bottom: 1.25em;
+    color:#fff9c4; 
 }
   
 label {
