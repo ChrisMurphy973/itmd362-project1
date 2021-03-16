@@ -41,10 +41,11 @@ ul {
   
 li {
     padding-bottom: .75em; 
+    color:#ffc08c;
 }
   
 [type="date"] {
-    padding-bottom: 0.5em; 
+    padding-bottom: 1em; 
 }
 footer{
     color:#ffc08c;
