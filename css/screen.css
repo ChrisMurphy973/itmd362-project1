@@ -11,14 +11,17 @@ html {
 
 fieldset{
     border-color: transparent;
+    background-color: rgb(15, 15, 15);
 }
 
 body{ 
     border-color: transparent;
+    background-color: rgb(15, 15, 15);
 }
 
 #content {
     border-color: transparent;
+    background-color: rgb(15, 15, 15);
     
 }
   
@@ -28,6 +31,7 @@ h1 {
     padding-top: 1em; 
     padding-bottom: 1.25em;
     color:#ffc08c; 
+    background-color: rgb(15, 15, 15);
     
 }
 
@@ -38,15 +42,14 @@ h2{
     padding-bottom: 1.25em;
     color:#ffc08c; 
     background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/hs-2015-29-a-xlarge_web.jpg");
+    background-repeat: no-repeat;
 
 }
 
-div {
-    background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/hs-2015-29-a-xlarge_web.jpg");
-}
 
 #ad {
     border-color: transparent;
+    background-color: rgb(15, 15, 15);
 }
   
 label {
@@ -63,6 +66,7 @@ ul {
 li {
     padding-bottom: .75em; 
     color:#ffc08c;
+    background-color: rgb(15, 15, 15);
 }
   
 [type="date"] {
@@ -71,6 +75,7 @@ li {
 footer{
     color:#ffc08c;
     background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/hs-2015-29-a-xlarge_web.jpg");
+    background-repeat: no-repeat;
 
 }
 
