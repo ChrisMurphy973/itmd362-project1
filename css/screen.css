@@ -7,6 +7,11 @@ html {
   padding: 1.55555em; 
   background-color: #000000;
 }
+body {
+    background-image: url(../images/nebula.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
 
 fieldset{
     border-color: transparent;
