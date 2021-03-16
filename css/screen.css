@@ -6,6 +6,7 @@ html {
     line-height: 1.55555em; 
     padding: 1.55555em; 
     background-color: #161616;
+    color:#ffc08c; 
 }
 
 fieldset{
@@ -18,9 +19,7 @@ body{
 
 #content {
     border-color: transparent;
-    background-image: url(../images/nebula.jpg);
-    background-repeat: repeat;
-    background-size: cover;
+    
 }
   
 h1 {
@@ -40,18 +39,10 @@ h2{
     color:#ffc08c; 
 }
 
-p {
-    font-size: 1em; 
-    font-weight: normal;
-    padding-top: 1em; 
-    padding-bottom: 1.25em;
-    color:#ffc08c;
-}
-
 #ad {
-    color:#ffc08c;
-    font-size: 1.5em; 
-    font-weight: lighter;
+    background-image: url(../images/nebula.jpg);
+    background-repeat: repeat;
+    background-size: cover;
 }
   
 label {
@@ -75,6 +66,9 @@ li {
 }
 footer{
     color:#ffc08c;
+    background-image: url(../images/nebula.jpg);
+    background-repeat: repeat;
+    background-size: cover;
 }
 
 input {
