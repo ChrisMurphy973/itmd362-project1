@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+
+html {
+  font-family: 'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
+  font-size: 1.125em; 
+  line-height: 1.55555em; 
+  padding: 1.55555em; 
+  background-color: #000000;
+}
+
+fieldset{
+    border-color: transparent;
+}
+  
+#content {
+    border-color: transparent;
+    background-color: #56006b
+}
+  
+h1 {
+    font-size: 1.75em; 
+    font-weight: bolder;
+    padding-top: 1em; 
+    padding-bottom: 1.25em; 
+}
+  
+label {
+    display: block;
+    padding-bottom: 0.5em; 
+}
+  
+li {
+    padding-bottom: .75em; 
+}
+  
+[type="date"] {
+    padding-bottom: 0.5em; 
+}
+
+input {
+  font-family:'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
+  border-color: transparent;
+  background-color: #fff9c4;
+  overflow: visible;
+}
+
+@media screen and (min-width: 220px) {
+  h1 {
+    font-size: 120%
+  }
+}
+
+@media screen and (min-width: 350px) {
+  label {
+    display: block;
+    justify-content: center;
+  }
+}
+
+@media screen and (min-width: 580px) {
+  h1 {
+    font-size: 200%
+  }
+  html {
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+  }
+}
