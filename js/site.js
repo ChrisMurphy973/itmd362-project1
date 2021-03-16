@@ -10,7 +10,7 @@ jQuery(function($) {
     var d = document.forms["form-one"]["phone"].value;
     var e = document.forms["form-one"]["dob"].value;
     if ((a == "") || (b == "") || (c == "") || (d == "") || (e == "")){
-      alert("All of the sections must be filled out.");
+      alert("Make sure all sections are properly filled out.");
     }
     else{
       alert("Sign up success! We can't wait to explore the stars with you!");
