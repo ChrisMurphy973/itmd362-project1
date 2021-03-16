@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
 
 html {
-  font-family: 'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
-  font-size: 1.125em; 
-  line-height: 1.55555em; 
-  padding: 1.55555em; 
-  background-color: #161616;
+    font-family: 'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
+    font-size: 1.125em; 
+    line-height: 1.55555em; 
+    padding: 1.55555em; 
+    background-color: #161616;
 }
 
 fieldset{
@@ -32,6 +32,12 @@ label {
     display: block;
     padding-bottom: 0.5em; 
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
   
 li {
     padding-bottom: .75em; 
@@ -45,10 +51,10 @@ footer{
 }
 
 input {
-  font-family:'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
-  border-color: transparent;
-  background-color: #ffffff;
-  overflow: visible;
+    font-family:'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
+    border-color: transparent;
+    background-color: #ffffff;
+    overflow: visible;
 }
 
 @media screen and (min-width: 220px) {
