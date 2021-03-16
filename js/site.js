@@ -3,7 +3,7 @@ jQuery(function($) {
     $('html').addClass('hasjs');
   });
 
-  function validationEvent() {
+  function allInputs() {
     var a = document.forms["form-one"]["first-name"].value;
     var b = document.forms["form-one"]["last-name"].value;
     var c = document.forms["form-one"]["email"].value;

@@ -40,9 +40,7 @@ h2{
 }
 
 #ad {
-    background-image: url(../images/nebula.jpg);
-    background-repeat: repeat;
-    background-size: cover;
+    border-color: transparent;
 }
   
 label {
@@ -66,9 +64,6 @@ li {
 }
 footer{
     color:#ffc08c;
-    background-image: url(../images/nebula.jpg);
-    background-repeat: repeat;
-    background-size: cover;
 }
 
 input {
