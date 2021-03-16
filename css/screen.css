@@ -30,6 +30,12 @@ h1 {
     color:#ffc08c; 
     
 }
+
+ad{
+    color:#ffc08c;
+    font-size: 1.5em; 
+    font-weight: lighter;
+}
   
 label {
     display: block;
