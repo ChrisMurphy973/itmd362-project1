@@ -32,6 +32,22 @@ h1 {
     
 }
 
+h2{
+    font-size: 1.5em; 
+    font-weight: bolder;
+    padding-top: 1em; 
+    padding-bottom: 1.25em;
+    color:#ffc08c; 
+}
+
+p {
+    font-size: 1em; 
+    font-weight: normal;
+    padding-top: 1em; 
+    padding-bottom: 1.25em;
+    color:#ffc08c;
+}
+
 #ad {
     color:#ffc08c;
     font-size: 1.5em; 
