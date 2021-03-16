@@ -5,9 +5,7 @@ html {
   font-size: 1.125em; 
   line-height: 1.55555em; 
   padding: 1.55555em; 
-  background-image: url(../images/nebula.jpg);
-  background-repeat: repeat;
-  background-size: cover;
+  background-color: #161616;
 }
 
 fieldset{
@@ -16,15 +14,18 @@ fieldset{
   
 #content {
     border-color: transparent;
-    background-color: #6c55d6
+    background-image: url(../images/nebula.jpg);
+    background-repeat: repeat;
+    background-size: cover;
 }
   
 h1 {
-    font-size: 1.75em; 
+    font-size: 2em; 
     font-weight: bolder;
     padding-top: 1em; 
     padding-bottom: 1.25em;
     color:#ffc08c; 
+    
 }
   
 label {
@@ -38,6 +39,9 @@ li {
   
 [type="date"] {
     padding-bottom: 0.5em; 
+}
+footer{
+    color:#ffc08c;
 }
 
 input {
