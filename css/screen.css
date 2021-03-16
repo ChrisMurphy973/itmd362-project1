@@ -13,13 +13,14 @@ fieldset{
 }
 
 body{ 
-    background-image: url(../images/nebula.jpg);
-    background-repeat: repeat;
-    background-size: cover;
+    
 }
 
 #content {
     border-color: transparent;
+    background-image: url(../images/nebula.jpg);
+    background-repeat: repeat;
+    background-size: cover;
 }
   
 h1 {
