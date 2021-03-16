@@ -16,7 +16,7 @@ fieldset{
   
 #content {
     border-color: transparent;
-    background-color: #000000
+    background-color: #6c55d6
 }
   
 h1 {
@@ -24,7 +24,7 @@ h1 {
     font-weight: bolder;
     padding-top: 1em; 
     padding-bottom: 1.25em;
-    color:#fff9c4; 
+    color:#ffc08c; 
 }
   
 label {
@@ -43,7 +43,7 @@ li {
 input {
   font-family:'Comfortaa', cursive, "Times New Roman", Times, Roman, serif;
   border-color: transparent;
-  background-color: #fff9c4;
+  background-color: #ffffff;
   overflow: visible;
 }
 
