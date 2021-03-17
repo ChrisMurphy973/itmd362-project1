@@ -43,7 +43,8 @@ h2{
     color:#ffc08c; 
     background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/hs-2015-29-a-xlarge_web.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center center;
 
 }
 
@@ -77,7 +78,8 @@ footer{
     color:#ffc08c;
     background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/hs-2015-29-a-xlarge_web.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: center center;
 
 }
 
