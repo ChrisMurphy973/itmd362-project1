@@ -16,3 +16,4 @@ jQuery(function($) {
       alert("Sign up success! We can't wait to explore the stars with you!");
     }
   }
+  
